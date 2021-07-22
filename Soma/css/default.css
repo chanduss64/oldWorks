@@ -1,0 +1,9 @@
+a{
+  transition: all 0.3s ease-in-out;
+  color: #7b7b7b !important;
+}
+
+a:hover{
+  color: #a0ce4e !important;
+  text-decoration: none !important;
+}
